@@ -3,7 +3,7 @@ Country ASN →  IP Range / Prefix Generator
 
 ## Generating the list of IP ranges or prefixes based on one or more countries or ASNs using IPinfo.io
 
-<video src="assets/extracting_prefixes.mp4" controls title="Country IP Range / Prefix Generator"></video>
+https://github.com/abdullahdevrel/Country-ASN-to-IP-range-prefix/assets/111275753/481dd053-33f1-4bce-b108-746e852d3849
 
 **Powered by: [IPinfo CLI](https://github.com/ipinfo/cli) and [IPinfo Free IP to Country ASN Database](https://ipinfo.io/products/free-ip-database)**
 
